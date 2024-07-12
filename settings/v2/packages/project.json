@@ -1,0 +1,19 @@
+{
+  "__version__": "1.0.4",
+  "general": {
+    "designResolution": {
+      "width": 468,
+      "height": 833,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "collisionMatrix": {
+      "0": 0
+    },
+    "autoSimulation": false,
+    "allowSleep": false
+  },
+  "custom_joint_texture_layouts": []
+}

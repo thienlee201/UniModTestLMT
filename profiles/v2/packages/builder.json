@@ -1,0 +1,57 @@
+{
+  "__version__": "1.3.5",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "buildPath": "project://build",
+    "outputName": "web-mobile-001",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "useSplashScreen": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1720754132633": {
+        "type": "build",
+        "id": "1720754132633",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "7-12-2024 12:44:15 build success in 14708 ms!",
+        "options": {
+          "name": "PlayableAlphabet",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": false,
+          "packAutoAtlas": true,
+          "startScene": "bda0eb37-1ea3-4579-b90d-80d6ac9a44a5",
+          "outputName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/main.scene",
+              "uuid": "bda0eb37-1ea3-4579-b90d-80d6ac9a44a5",
+              "inBundle": false
+            }
+          ],
+          "web-mobile": [],
+          "packages": {},
+          "__version__": "1.3.5"
+        },
+        "time": "7-12-2024 12:44",
+        "dirty": false
+      }
+    }
+  }
+}
